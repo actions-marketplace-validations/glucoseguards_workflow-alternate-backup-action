@@ -1,4 +1,4 @@
-name: 'Alternate Backup Action'
+name: 'Workflow Backup Action'
 description: 'Easy backup of the Database or Directory, uses SSH port value and less inclusive rsync'
 author: 'Valerian Pereira'
 
